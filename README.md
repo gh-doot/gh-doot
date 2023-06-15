@@ -1,5 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ThisIsACoolBoy)](https://github.com/ryo-ma/github-profile-trophy)
-[![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png?text=Hello) `#f03c15`
 # About me
 Hi! In GitHub I'm named _'ThisIsACoolBoy'_ (might be subject to change accordingly), however I am mostly nicknamed '__doot__' (specifically in Discord) when making things such as package.json(s) or anything that needs me to provide being the author of a project. I am an _early_ inheritor of the area of programming, specifically *Node.JS* and *Python*.
 # Interests
