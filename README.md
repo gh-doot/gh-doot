@@ -95,7 +95,7 @@ While these goals are still in progress, they represent my ambitions as an open-
 # Devices
 [![Apple | iPad (8th Gen)](https://img.shields.io/badge/Apple-iPad_(8th%20Gen)-999999?style=for-the-badge&logo=apple&logoColor=white)](https://support.apple.com/kb/SP822?locale=en_US)
 [![Apple | iPhone X](https://img.shields.io/badge/Apple-iPhone_X-999999?style=for-the-badge&logo=apple&logoColor=white)](https://support.apple.com/kb/sp770?locale=en_US)
-[![Google | Acer Chromebook Spin 512](https://img.shields.io/badge/google-chromebook_model_N18Q8-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/#sparky360:~:text=Acer%20Chromebook%20Spin%20512(R851TN))
+[![Acer | Chromebook Spin 512](https://img.shields.io/badge/acer-chromebook_spin_512-lightgreen?style=for-the-badge&logo=acer&logoColor=white)](https://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/#sparky360:~:text=Acer%20Chromebook%20Spin%20512(R851TN))
 [![Razer | Razer Blade 15" Advanced (2020)](https://img.shields.io/badge/Razer-Razer_Blade_15%E2%80%9D_Advanced_(2020)-super?style=for-the-badge&logo=razer&logoColor=super)](https://mysupport.razer.com/app/answers/detail/a_id/3618/~/razer-blade-15%E2%80%9D-advanced-%282020%29-%7C-rz09-0330x-support-%26-faqs)
 	
 # Specs
