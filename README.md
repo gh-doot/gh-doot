@@ -1,21 +1,27 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jost&weight=450&duration=2500&pause=250&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=135&lines=Hello+World!+I'm+doot!;I'm+a+curious+new+developer.;I+mainly+use+Python+in+my+code.;However+I+also+am+known+to+use%3A;JavaScript%2C+Node.JS%2C+CSS%2C+HTML%2C+and+more."></a>
   <a><img src="https://github-profile-trophy.vercel.app/?username=doot9215"></a>
-  <a href="javascript:alert('doot#9215')"><img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465"></a>
 </p>
 
 # About me
-Hi! In GitHub I'm named _'ThisIsACoolBoy'_ (might be subject to change accordingly), however I am mostly nicknamed '__doot__' (specifically in Discord) when making things such as package.json(s) or anything that needs me to provide being the author of a project. I am an _early_ inheritor of the area of `programming`, specifically $\textcolor{lime}{\textsf{Node.JS}}$ and $\texolor{blue}{\textsf{Python}}$ .
+Hi there! My name is `doot`, and I'm a curious new developer. While I go by the nickname "doot" when working on projects like `package.json`, my earliest name was ZKiddyYT in various areas. You might find me changing names from time to time. I'm passionate about the world of programming, with a focus on `Node.JS` and `Python`.
+
 # Interests
-I have a liking of making various personal and private projects, rarely disclosing them to the public, however I like to stay open-source so if I ever do release something I won't hesitate to attempt to make it open-source and customizable. I have an interest in making web-apps, discovering LLMs, looking forward to Artificial Intelligence, and other various topics.
+I have a deep interest in creating personal and private projects, although I rarely share them with the public. However, I strongly believe in the power of open-source software. If I do release something, I make sure it's open-source and customizable. Some of my interests include developing web applications, exploring Language Models (LLMs), delving into Artificial Intelligence (AI) research, and engaging with various other topics related to technology and software development.
+
 # Personal Goals
-A few goals of exploring the programming world include such as
-- [ ] Interactive Bots (and Discord ones)
-- [x] LLMs
-- [ ] Usable Interface
+Here are a few goals I aspire to achieve in my programming journey:
+- [x] Interactive Bots (including Discord bots)
+- [x] Language Models (LLMs)
+- [ ] User-friendly Interfaces
 - [x] TensorFlow
-- [ ] Customizable AIs
-- [ ] GPT models
-- [ ] Pretraining
-- [x] and Free alternatives for everything
-are usually my few goals I want to achieve some time. Most are incomplete but are usually my goals I want to achieve throughout my journey in open-source coding, hopefully making it public eventually.
+- [ ] Customizable AI solutions
+- [ ] GPT (Generative Pre-trained Transformer) models
+- [ ] Pretraining techniques
+- [x] Exploring free alternatives for every aspect of development
+
+While these goals are still in progress, they represent my ambitions as an open-source coder. I hope to make significant contributions and eventually share my projects with the broader community.
+# Socials
+<a href="emailto:zayan.kiddy@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
