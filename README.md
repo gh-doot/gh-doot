@@ -5,6 +5,7 @@
 <p align="center">
 	<a><img src="https://github.com/doot9215/doot9215/assets/48828036/e54fe3de-a157-4c5c-b958-916f5f7f66d6"></a>
 </p>
+
 # About me
 Hi there! My name is `doot`, and I'm a curious new developer. While I go by the nickname "doot" when working on projects like `package.json`, my earliest name was ZKiddyYT in various areas. You might find me changing names from time to time. I'm rather passionate and relaxed in the area of programming, and like to work with basic and usable languages.
 
