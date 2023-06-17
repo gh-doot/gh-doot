@@ -6,6 +6,7 @@
 <p align="center">
 	<a><img src="https://github.com/doot9215/doot9215/assets/48828036/e54fe3de-a157-4c5c-b958-916f5f7f66d6"></a>
 	<img src="https://github.com/doot9215/doot9215/assets/48828036/f7f19de0-d87e-447e-b611-43c5382d2437">
+	<img src="https://img.shields.io/badge/i_care-for_trees-0CAE5B?style=for-the-badge&logo=forestry&logoColor=white" height="35">
 </p>
 
 ## About me
@@ -43,6 +44,7 @@ While these goals are still in progress, they represent my ambitions as an open-
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
 [![Bing AI](https://img.shields.io/badge/Bing%20AI-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)](https://bing.com/chat)
 ## Languages
+[![mcfunction](https://img.shields.io/badge/mcfunction-53AC56?style=for-the-badge&logo=minetest&logoColor=white)](https://mcfunction.com/)
 [![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
@@ -68,12 +70,17 @@ While these goals are still in progress, they represent my ambitions as an open-
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/about)
+[![tqdm](https://img.shields.io/badge/tqdm-FFC107?style=for-the-badge&logo=tqdm&logoColor=black)](https://tqdm.github.io/)
+[![spaCy](https://img.shields.io/badge/spacy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/)
+[![cURL](https://img.shields.io/badge/curl-073551?style=for-the-badge&logo=curl&logoColor=white)](https://curl.se/)
+[![Github Actions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
 ## IDEs
 [![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.google/)
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://repl.it/)
 [![VSC](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Roblox Studio](https://img.shields.io/badge/roblox-studio-09A3D5?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/create)
   
 ## OS(s)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios)
