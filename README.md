@@ -9,7 +9,7 @@
 	<a><img src="https://github.com/doot9215/doot9215/assets/48828036/e54fe3de-a157-4c5c-b958-916f5f7f66d6"></a>
 	<img src="https://github.com/doot9215/doot9215/assets/48828036/f7f19de0-d87e-447e-b611-43c5382d2437">
 	<img src="https://img.shields.io/badge/i_care-for_trees-0CAE5B?style=for-the-badge&logo=forestry&logoColor=white" height="35">
-	<img src="https://api.visitorbadge.io/api/daily?path=github.com%2Fgh-doot&countColor=%23263759&labelStyle=upper" height="35">
+	<img src="https://api.visitorbadge.io/api/daily?path=github.com%2Fgh-doot&label=page loads&countColor=%23263759&labelStyle=upper" height="35">
 </p>
 
 ## About me
