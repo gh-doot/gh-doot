@@ -3,10 +3,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jost&weight=450&duration=2500&pause=250&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=135&lines=Hello+World!+I'm+doot!;I'm+a+curious+new+developer.;I+mainly+use+Python+in+my+code.;However+I+also+am+known+to+use%3A;JavaScript%2C+Node.JS%2C+CSS%2C+HTML%2C+and+more."></a>
   <a><img src="https://github-profile-trophy.vercel.app/?username=gh-doot"></a>
 </p>
+
+
 <p align="center">
 	<a><img src="https://github.com/doot9215/doot9215/assets/48828036/e54fe3de-a157-4c5c-b958-916f5f7f66d6"></a>
 	<img src="https://github.com/doot9215/doot9215/assets/48828036/f7f19de0-d87e-447e-b611-43c5382d2437">
 	<img src="https://img.shields.io/badge/i_care-for_trees-0CAE5B?style=for-the-badge&logo=forestry&logoColor=white" height="35">
+	<img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fgh-doot&countColor=%23263759&labelStyle=upper" height="35">
 </p>
 
 ## About me
