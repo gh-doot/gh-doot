@@ -53,7 +53,6 @@ While these goals are still in progress, they represent my ambitions as an open-
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://css3.com/)
 [![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-<a>⁽ʰᵒʷ ᵈᵒᵉˢ ᵗʰᶦˢ ᵉˣᶦˢᵗ⁾</a>
 
 ## Utils
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
