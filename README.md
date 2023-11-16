@@ -1,1 +1,1 @@
-![cat-thumbs-up-cat](https://github.com/gh-doot/gh-doot/assets/48828036/f5053a85-17d3-44ef-b47f-a87a90a30115)
+![pixil-gif-drawing](https://github.com/gh-doot/gh-doot/assets/48828036/cda940e5-9ba4-4d9c-b67b-4623ed5399e5)
